@@ -6,7 +6,7 @@ Outside class I build tools for my own use, like a custom market-analysis indica
 
 ### Projects
 - **StoreScope (capstone):** point-of-sale, inventory and analytics platform for small stores. I own the inventory & analytics backend: concurrency-safe stock updates (keyed mutex), a heap-based restock priority queue, and an event-based audit trail. *TypeScript · Node.js · PostgreSQL*
-- **[CaseFlow](https://github.com/dangalsantosh9/investigation-app):** full-stack case management app for investigation and field teams: cases, task assignment, progress updates, and evidence uploads, with server-enforced role-based access and read-only closed cases. *SvelteKit · REST API*
+- **[Investigation App}(https://github.com/dangalsantosh9/investigation-app):** full-stack case management app for investigation and field teams: cases, task assignment, progress updates, and evidence uploads, with server-enforced role-based access and read-only closed cases. *SvelteKit · REST API*
 - **Limit Order Book (C++):** an order-matching engine with price-time priority, add/cancel/modify, and latency benchmarks. *(in progress)*
 - **BTNQ indicator:** multi-timeframe market-structure indicator with noise filtering, cross-asset divergence detection, and real-time alerts. *Pine Script v6*
 
